@@ -7,7 +7,7 @@ public class add_two_numbers {
 		// TODO Auto-generated method stub
 		int num1,num2,sub=0,sum=0;
 		Scanner scan=new Scanner(System.in);
-		System.out.println("Subtraction:");
+
 		System.out.println("Enter number1:");
 		num1=scan.nextInt();
 		System.out.println("Enter number2:");
